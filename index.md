@@ -11,6 +11,11 @@ Here you will find projects on Data Cleaning, EDA and Web Scraping.
 Messy data is always a problem in  the analysis process. Most analyst spend their time dealing with  problems in their data such as duplicates, null values, wrong formatting , you name it. Sometimes it feels like one has to jump through a lot of hoops in order to get the dataset in the correct fromat. In this project I cleaned a movies dataset with R. You can compare the results by looking at both the initial csv file and the clean one.
 [Click here to view R code](https://github.com/servando110398-is/Data-Cleaning/blob/main/Data_Cleaning.pdf)
 
+# Web Scraping
+![This is an image](https://cdn.wallpapersafari.com/37/94/PDZVfl.jpg)
+The very first step in the analytics process is coming up with a research question, then it comes data collection. In this small project I use  Python's 
+Beautifulsoup library to scrape data from 'La Liga' soccer league website. Jupyter notebooks let's us go through the code nicely,estep by step.
+[Feel free to check the python code here](https://github.com/servando110398-is/Web_Scraping_ETL_Project/blob/main/Web_Scraping_and_ETL-Copy1.ipynb)
 
 
 
@@ -19,15 +24,4 @@ Messy data is always a problem in  the analysis process. Most analyst spend thei
 
 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/servando110398-is/profile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
