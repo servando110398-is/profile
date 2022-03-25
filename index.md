@@ -1,11 +1,12 @@
-#Servando De La Garza
-##[Linkedin](https://www.linkedin.com/in/servandodlg/)|sadelagarz@miners.utep.edu
+# Servando De La Garza
+
+## [Linkedin](https://www.linkedin.com/in/servandodlg/)|sadelagarz@miners.utep.edu
 
 
-## Welcome to my Portfolio Website
+## Welcome to my Portfolio Website 
 Here you will find projects on Data Cleaning, EDA and Web Scraping.
 
-#Data Cleaning
+# Data Cleaning
 ![This is an image](https://wallpaper.dog/large/20476860.jpg)
 Messy data is always a problem in  the analysis process. Most analyst spend their time dealing with  problems in their data such as duplicates, null values, wrong formatting , you name it. Sometimes it feels like one has to jump through a lot of hoops in order to get the dataset in the correct fromat. In this project I cleaned a movies dataset with R. You can compare the results by looking at both the initial csv file and the clean one.
 [Click here to view R code](https://github.com/servando110398-is/Data-Cleaning/blob/main/Data_Cleaning.pdf)
