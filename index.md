@@ -24,7 +24,7 @@ Beautifulsoup library to scrape data from 'La Liga' soccer league website. Jupyt
 Forbes posts a list containing the names of  billionaires around the world every year.The dataset used in this project contains names, ages, net worth,
 industry,rank and country of every billionaire on that list for the year of 2021.
 Which countries have the most billionaires? What's the average age of a billionaire ? These are some of the questions that I tried to answer in this project. With nice ggplot visualisations we will see how that data looks like. 
-[Check out the code Here](https://github.com/servando110398-is/Exploratory_data_analysis/blob/main/analysis.pdf)
+[Check out the code here](https://github.com/servando110398-is/Exploratory_data_analysis/blob/main/analysis.pdf)
 
 
 
