@@ -20,11 +20,11 @@ Beautifulsoup library to scrape data from 'La Liga' soccer league website. Jupyt
 # Exploratory Data Analysis
 ![This is an image](https://thumbor.forbes.com/thumbor/1500x0/smart/filters:format(jpeg)/https%3A%2F%2Fimages.forbes.com%2FBillionaires2021-ListHeader-2%2FBillionaires2021-Desktop-LanderHeader-v2.png)
 
-:dollar:  :bulb:
+
 Forbes posts a list containing the names of  billionaires around the world every year.The dataset used in this project contains names, ages, net worth,
 industry,rank and country of every billionaire on that list for the year of 2021.
 Which countries have the most billionaires? What's the average age of a billionaire ? These are some of the questions that I tried to answer in this project. With nice ggplot visualisations we will see how that data looks like. 
-[Check out the code Here](https://github.com/servando110398-is/Exploratory_data_analysis/blob/main/Exploratory_Data_Analysis.Rmd)
+[Check out the code Here](https://github.com/servando110398-is/Exploratory_data_analysis/blob/main/analysis.pdf)
 
 
 
